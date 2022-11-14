@@ -1,7 +1,7 @@
 import os
 import shutil
 
-version = '0.3'
+version = '0.4'
 
 
 
